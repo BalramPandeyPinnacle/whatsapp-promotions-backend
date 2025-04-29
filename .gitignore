@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+# npm-debug.log
+# yarn-debug.log
+# yarn-error.log
+
+# Env Files
+# .env
+
+# Logs
+# logs
+# *.log
+
+# Build files
+# /dist
+# /build
+
+# Mac System Files
+# .DS_Store
+
+# vscode settings
+# .vscode
+
+# coverage reports (for testing)
+# coverage/
